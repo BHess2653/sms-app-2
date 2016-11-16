@@ -15,8 +15,8 @@ The User can Add, Update, and Delete anything on the list without logging in but
 
 ## Resources
 #### Fonts
-https://fonts.google.com/specimen/Press+Start+2P - Main Font
-https://fonts.google.com/specimen/Geo?selection.family=Geo - Todo List font
+* https://fonts.google.com/specimen/Press+Start+2P - Main Font
+* https://fonts.google.com/specimen/Geo?selection.family=Geo - Todo List font
 
 #### Icons
 https://material.io/icons/ - Sign-in/add Image Icon
