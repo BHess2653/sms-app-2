@@ -51,8 +51,8 @@ function genLinks(key, mvName) {
 function edit(key, mvName) {
     var itemName = prompt("Update the item name", mvName);
     if (itemName && itemName.length > 0) {
-        var updateMovieRef = buildEndPoint(key);
-        updateMovieRef.update({
+        var updateListRef = buildEndPoint(key);
+        updateListRef.update({
             name: itemName
         });
     }
@@ -64,8 +64,8 @@ function edit(key, mvName) {
 function del(key, mvName) {
     var response = confirm("Remove \"" + mvName + "\" from the list?");
     if (response == true) {
-        var deleteMovieRef = buildEndPoint(key);
-        deleteMovieRef.remove();
+        var deleteListRef = buildEndPoint(key);
+        deleteListRef.remove();
     }
 }
 
