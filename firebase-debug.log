@@ -1,0 +1,16 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /Users/GM_Dahaka/.nvm/versions/node/v6.6.0/bin/node /Users/GM_Dahaka/.nvm/versions/node/v6.6.0/bin/firebase serve
+[debug] CLI Version:  3.0.8
+[debug] Platform:     darwin
+[debug] Node Version: v6.6.0
+[debug] Time:         Wed Nov 16 2016 10:23:34 GMT-0500 (EST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /Users/GM_Dahaka/Projects/sms1611/test
+[warn] ⚠  Port 5000 is not available. Trying another port...
+[warn] ⚠  Port 5001 is not available. Trying another port...
+[info] Public Directory: ./
+[info] 
+[info] Server listening at: http://localhost:5002

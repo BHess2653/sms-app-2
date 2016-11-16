@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "name": "TheHub",
+  "launch_path": "/index.html",
+  "description": "Group chat and todo list",
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "TheHub",
+      "description": "Group chat and todo list"
+    }
+  }
+}
